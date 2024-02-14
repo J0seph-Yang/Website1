@@ -14,13 +14,13 @@ a {
 }
 
 button:hover {
-    background-color: rgb(31, 13, 31);
+    background-color: rgb(34, 31, 184);
     cursor: pointer;
 }
 
 button {
-    color: black;
-    background-color: rgb(10, 28, 34);
+    color: rgb(0, 0, 0);
+    background-color: rgb(242, 244, 245);
     width: 60px;
     height: 50px;
     border-radius: 20px;
